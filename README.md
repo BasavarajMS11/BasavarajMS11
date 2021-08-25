@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Basavaraj M S
 
 #### I'm Developer!
-- 💫I'm practicing Panchalakshana's - Kaak Cheshta, Bako Dhyanam, Shwana Nidra, Alpahari, Grihatyagi
+
 - 🌱I'm currently learning exciting things
 - 👨🏽‍💻I'm currently working on industry project
 - 🎯2021 Goals: To be dynamic developer
 - ⚡Interests: Nature walk, Playing game
+- 💫I'm practicing panchalakshana's out of curious - Kaak Cheshta, Bako Dhyanam, Shwana Nidra, Alpahari, Grihatyagi
 <br/>
 
 #### Connect with me
@@ -14,12 +15,9 @@
 [<img align="left" alt="BasavarajMS | GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="BasavarajMS | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-<br/>
-<br/>
+
 
 ### Technical Skills
-
-<br/> 
 
 #### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
