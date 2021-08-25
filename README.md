@@ -4,10 +4,9 @@
 
 - 🌱I'm currently learning exciting things
 - 👨🏽‍💻I'm currently working on industry project
-- 🎯2021 Goals: To be dynamic developer
+- 🎯2021 Goals: To be dynamic developer 💫
 - ⚡Interests: YOGA, Nature walk, Playing game
-- 💫I'm practicing panchalakshana's of student out of curious 
-- 👯 I'm looking to collaborate with other
+- 👯 I'm looking to collaborate with others
 
 ## Technical Skills ✨
 
