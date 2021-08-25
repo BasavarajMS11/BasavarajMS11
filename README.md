@@ -80,6 +80,11 @@
 <br/>
 <br/>
 
+---
+
+![BasavarajMS11's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasavarajMS11&show_icons=true&theme=dark)
+
+
 [gmail]: basavarajsavadatti111@gmail.com
 [linkedin]: https://www.linkedin.com/in/basavaraj-savadatti-15634219b/
 [github]: https://github.com/BasavarajMS11 
