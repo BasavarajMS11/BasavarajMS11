@@ -80,7 +80,7 @@
 
 ## Connect with me @
 
-[<img align="left" alt="BasavarajMS | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+
 [<img align="left" alt="BasavarajMS | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br/>
 <br/>
