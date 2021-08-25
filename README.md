@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Basavaraj M S
+### Hi there 👋, I'm Basavaraj
 
 #### I'm Developer!
 
