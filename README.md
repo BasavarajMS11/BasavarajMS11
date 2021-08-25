@@ -14,8 +14,7 @@
 [<img align="left" alt="BasavarajMS | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="BasavarajMS | GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="BasavarajMS | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-
+<br/>
 
 ### Technical Skills
 
