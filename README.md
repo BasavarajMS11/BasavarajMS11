@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Basavaraj
 
-#### I'm Developer!
+#### I'm Computer Science Undergraduate, Learner, Developer!
 
 - 🌱I'm currently learning exciting things
 - 👨🏽‍💻I'm currently working on industry project
