@@ -9,8 +9,6 @@
 - 💫I'm practicing panchalakshana's out of curious - Kaak Cheshta, Bako Dhyanam, Shwana Nidra, Alpahari, Grihatyagi
 <br/>
 
-<br/>
-
 ## Technical Skills
 
 #### Programming Languages:
@@ -75,7 +73,6 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-<br />
 <br/>
 
 ## Connect with me @
