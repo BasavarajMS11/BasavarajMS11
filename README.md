@@ -5,7 +5,7 @@
 - 🌱I'm currently learning exciting things
 - 👨🏽‍💻I'm currently working on industry project
 - 🎯2021 Goals: To be dynamic developer
-- ⚡Interests: Nature walk, Playing game
+- ⚡Interests: YOGA, Nature walk, Playing game
 - 💫I'm practicing panchalakshana's out of curious - Kaak Cheshta, Bako Dhyanam, Shwana Nidra, Alpahari, Grihatyagi
 
 ## Technical Skills
