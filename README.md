@@ -3,7 +3,7 @@
 #### I'm Computer Science Undergraduate, Learner, Developer!
 
 - 🌱I'm currently learning exciting things
-- 👨🏽‍💻I'm currently working on industry project
+- 👨🏽‍💻I'm currently working on an industry project
 - 🎯2021 Goals: To be dynamic developer 💫
 - ⚡Interests: YOGA, Nature walk, Playing game
 - 👯 I'm looking to collaborate with other developers
