@@ -1,4 +1,4 @@
-## <p align="center"> Hi there 👋,  I'm Basavaraj </p>
+## <p align="center"> Hi there 👋, I'm Basavaraj </p>
 
 #### I'm Computer Science Undergraduate, Learner, Developer!
 
