@@ -1,4 +1,4 @@
-## <p align="center"> Hi there 👋,I'm Basavaraj </p>
+## <p align="center"> Hi there 👋,I'm Basavaraj</p>
 
 #### I'm Computer Science Undergraduate, Learner, Developer!
 
@@ -60,7 +60,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 #### 🌟 Operating System
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
