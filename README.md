@@ -7,7 +7,7 @@
 - 👨🏽‍💻I'm currently working on an industry project
 - 🎯2021 Goals: To be dynamic developer 💫
 - ⚡Interests: YOGA, Nature walk, Playing game
-- 👯Looking to collaborate with other developers
+- 👯Looking to collaborate with other developers 
 
 ## Technical Skills ✨
 
