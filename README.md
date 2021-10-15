@@ -1,6 +1,6 @@
 ## <p align="center"> Hi there 👋, I'm Basavaraj</p>
 
-#### I'm Computer Science Undergraduate, Learner, Developer!
+#### I'm Computer Science Undergraduate, Learner, Developer! 
 
 
 - 🌱I'm currently learning exciting things 
