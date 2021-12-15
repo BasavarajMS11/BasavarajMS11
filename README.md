@@ -5,8 +5,8 @@ new technologies.</p>
 
 
 
-- 🌱I'm currently learning exciting things 
-- 👨🏽‍💻I'm currently working on an industry project
+- 🌱Currently learning exciting things 
+- 👨🏽‍💻Currently working on an industry project
 - 🎯2021 Goals: To be dynamic developer 💫
 - ⚡Interests: YOGA, Nature walk, Playing game
 - 👯Looking to collaborate with other developers  
