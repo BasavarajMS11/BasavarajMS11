@@ -1,4 +1,4 @@
- ## I'm Computer Science Undergraduate, Learner, Developer!   
+ ## Computer Science Undergraduate, Learner, Developer!   
 <p>Passionate full stack web developer with software engineering principles and standards. I had been working
 on the web application development projects. Carried some notable data science projects. Enthusiastic to explore and learn
 new technologies.</p>
