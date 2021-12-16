@@ -71,7 +71,7 @@ new technologies.</p>
  
 <br/>
 
-## Connect with me @
+## Connect with me on
 
 
 [<img align="left" alt="BasavarajMS | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
