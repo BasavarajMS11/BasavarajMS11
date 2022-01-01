@@ -7,9 +7,9 @@ new technologies.</p>
 
 - 🌱Currently learning exciting things 
 - 👨🏽‍💻Currently working on an industry project
-- 🎯2021 Goals: To be dynamic developer 💫
+<!-- - 🎯2022 Goals: To be fit: Mentally, Physically, Technically, Economically -->
 - ⚡Interests: YOGA, Nature walk, Playing game
-- 👯Looking to collaborate with other developers  
+- 👯Looking forward to collaborate with other developers  
 
 ## Technical Skills ✨
 
