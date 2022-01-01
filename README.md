@@ -3,11 +3,10 @@
 on the web application development projects. Carried some notable data science projects. Enthusiastic to explore and learn
 new technologies.</p>
 
-
+<!-- - 🎯2022 Goals: To be fit: Mentally, Physically, Technically, Economically -->
 
 - 🌱Currently learning exciting things 
 - 👨🏽‍💻Currently working on an industry project
-<!-- - 🎯2022 Goals: To be fit: Mentally, Physically, Technically, Economically -->
 - ⚡Interests: YOGA, Nature walk, Playing game
 - 👯Looking forward to collaborate with other developers  
 
