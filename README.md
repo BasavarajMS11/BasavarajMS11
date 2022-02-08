@@ -7,7 +7,7 @@ new technologies.</p>
 
 - 🌱Currently learning exciting things 
 - 👨🏽‍💻Currently working on an industry project
-- ⚡Interests: YOGA, Nature walk, Playing game
+- ⚡Interests: YOGA, ART, GAME
 - 👯Looking forward to collaborate with other developers  
 
 ## Technical Skills ✨
