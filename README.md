@@ -1,7 +1,7 @@
  ## Computer Science Undergraduate, Learner, Developer!   
 <p>Passionate full stack web developer with software engineering principles and standards. I had been working
 on the web application development projects. Carried some notable data science projects. Enthusiastic to explore and learn
-new technologies.</p>
+new technologies.</p> 
 
 <!-- - 🎯2022 Goals: To be fit: Mentally, Physically, Technically, Economically -->
 
