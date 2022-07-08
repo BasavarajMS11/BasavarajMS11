@@ -5,7 +5,7 @@ new technologies.</p>
 
 <!-- - 🎯2022 Goals: To be fit: Mentally, Physically, Technically, Economically -->
 
-- 🌱Currently learning exciting things 
+- 🌱Actively learning 
 - 👨🏽‍💻Currently working on an industry project
 - ⚡Interests: YOGA, ART, GAME
 - 👯Looking forward to collaborate with other developers  
