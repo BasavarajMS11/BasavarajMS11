@@ -1,12 +1,9 @@
  ## Associate Software Engineer, CSE, Learner, Developer!   
-<p>Passionate full stack web developer with software engineering principles and standards. I had been working
-on the web application development projects. Carried some notable data science projects. Enthusiastic to explore and learn
-new technologies.</p> 
+<p>Passionate about software development</p> 
 
-<!-- - 🎯2022 Goals: To be fit: Mentally, Physically, Technically, Economically -->
+<!-- - 🎯2022 Goals: Mental and Physical health -->
 
 - 🌱Actively learning 
-- 👨🏽‍💻Currently working on an industry project
 - ⚡Interests: YOGA, ART, GAME
 - 👯Looking forward to collaborate with other developers  
 
