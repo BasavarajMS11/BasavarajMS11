@@ -69,10 +69,10 @@
 
 ---
 
-![BasavarajMS11's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasavarajMS11&show_icons=true&theme=dark)
+![BasavarajMS11's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BasavarajMS11&show_icons=true&theme=dark)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasavarajMS11&langs_count=8)](https://github.com/BasavarajMS11/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BasavarajMS11&langs_count=8)](https://github.com/BasavarajMS11/github-readme-stats)
 
 
 
