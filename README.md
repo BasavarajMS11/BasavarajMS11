@@ -1,4 +1,4 @@
- ## Software Engineer, CSE, [Learner, Developer, Tester]   
+ ## Software Engineer [Learner, Developer, Tester]   
 <p>Passionate about software development</p> 
 
 <!-- - 🎯2022 Goals: Mental and Physical health -->
